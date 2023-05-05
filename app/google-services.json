@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837053691850",
+    "project_id": "testing-locations-1976e",
+    "storage_bucket": "testing-locations-1976e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837053691850:android:78c46d69e3086b31e68133",
+        "android_client_info": {
+          "package_name": "com.ghovo.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837053691850-cju5qr183499o81ve9pooaho54hlsfst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1t1BdRj8-1CeF_AFtUAQdvA7igiaVLhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837053691850-cju5qr183499o81ve9pooaho54hlsfst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
